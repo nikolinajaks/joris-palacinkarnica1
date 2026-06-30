@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFcorePalacinka", "EFcorePalacinka.csproj", "{99756D11-EBEC-4EE9-A738-4DED09209135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99756D11-EBEC-4EE9-A738-4DED09209135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99756D11-EBEC-4EE9-A738-4DED09209135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99756D11-EBEC-4EE9-A738-4DED09209135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99756D11-EBEC-4EE9-A738-4DED09209135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB9FE18-DB91-451D-A499-B3EDCB4F0055}
+	EndGlobalSection
+EndGlobal
